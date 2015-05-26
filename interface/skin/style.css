@@ -1,0 +1,233 @@
+/**
+ * 4PSA VoipNow SystemAPI Client for PHP
+ *
+ * Copyright (c) 2012, Rack-Soft (www.4psa.com). All rights reserved.
+ * VoipNow is a Trademark of Rack-Soft, Inc
+ * 4PSA is a Registered Trademark of Rack-Soft, Inc.
+ * All rights reserved.
+ * 
+ * General CSS
+ */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	background: #FCFCFC;
+}
+
+.content {
+    text-align:center;
+    margin-left:15%;
+    margin-right:15%;
+}
+
+.index_content {
+	text-align:center;
+    margin-left:15%;
+    margin-right:15%;
+	margin-top: 10%; 
+	vertical-align: middle;
+}
+
+h2 {
+	font-family: Arial, Helvetica;
+}
+
+.div_response {
+	width: 100%;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+	border: 1px solid #CCCCCC;
+	background: #ECECEC;
+	margin-top: 10px;
+	margin-bottom: 10px; 
+}
+
+.div_header {
+	padding: 5px 0px 0px 5px; 
+	background: #cccccc;
+	height: 25px;
+}
+
+.div_error_handler {
+	width: 620;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+	border: 1px solid #CCCCCC;
+	background: #ECECEC;
+	padding-left: 10px;
+	width: 620px;
+}
+
+.required {
+	color: #cc0000;
+}
+
+.xml_response {
+	padding-left: 10px;
+}
+
+input, textarea, select{
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+select {
+    width: 180px;
+}
+
+.checkbox {
+    margin:0;
+}
+
+.text_long {
+	width: 180px;
+	background-color: #FFFFFF;
+}
+.text_long_disabled {
+	background-color: #C2BFA5;
+	width: 180px; 	
+}
+
+.label {
+	font-weight: normal;
+	text-align: right;
+	vertical-align: top;
+	width: 250px;
+}
+
+textarea {
+	width: 300px;
+	height: 80px;
+}
+
+td {
+	font-family: Helvetica;
+	font-size: 13px;
+	text-align:left;
+}
+
+
+	
+
+.btn_table {
+	width: 620px;
+	margin-top: 20px;
+	margin-right: -8px;
+	padding-top:6px;
+}
+
+.form_table {
+	width:700px;
+}
+
+.requirement {
+	padding-top: 6px;
+	width: 560px;
+}
+
+.advice td {
+	padding: 3px 20px 3px 20px;
+	color: #eb2227;
+}
+
+.check_icon {
+	padding-top: 8px;
+}
+
+.report_table {
+	width: 220px;
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 6px;
+}
+
+.report_table td {
+	padding-left: 10px;
+}
+
+.block_title {
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 13.2px;
+	vertical-align: middle;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: -8px;
+	padding-left: 6px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	width:620px;
+ 	border-bottom:#B0B0B0 thin groove; 
+	border-left:#B0B0B0 thin inset; 
+	background-color: #CCCCCC;
+	text-align: left;
+}
+
+.info_table {
+    font-weight: normal;
+	text-align: justify;
+    width: 620px;
+    margin-bottom: 10px;
+}
+
+.index_links{
+	font-weight: bold;
+	font-family: Helvetica;
+	font-size: 13.2px;
+	width: 620px;
+	text-align: left;
+}
+
+a:link {
+	color: #0240a3;
+}
+
+a:visited {
+	color: #0240a3;
+}
+
+a:active {
+	color: #000000;
+}
+
+.user_info_table{
+	font-weight: normal;
+    width: 620px;
+    margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.someBtn button,
+.someBtn {
+	font-family: Helvetica;
+	font-size: 13px;
+	font-weight: bold;
+	color: #000000;
+	width: 91px;
+	height: 21px;
+	text-align: center;
+	background-color: #CCCCCC;
+	background-repeat: no-repeat;
+	display: inline;
+}
+
+#bid-ok button {
+	padding-left: 8px;
+}
+
+.someBtn span {
+	display: none;
+}
+
